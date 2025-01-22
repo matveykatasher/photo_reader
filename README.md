@@ -13,7 +13,7 @@
 
 ---
 
-##Использование
+## Использование
 
 1)Запустите скрипт:
 
@@ -34,7 +34,7 @@ python photo_info.py
  - Модель объектива: iPhone 16 Pro Max back dual camera 13mm f/1.8
 
 ---
-##Поддерживаемые форматы
+## Поддерживаемые форматы
 
 -HEIC (High Efficiency Image Coding)
 -JPEG
